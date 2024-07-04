@@ -1,2 +1,2 @@
 # PRODIGY_ML_02
-Created K Means clustering algorithm to group customers of a retail store based on their purchase history.
+This GitHub repository implements the K-means clustering algorithm to segment customers of a retail store based on their purchase history data. By understanding customer behavior patterns, retailers can develop targeted marketing strategies, improve customer retention, and enhance overall profitability.
